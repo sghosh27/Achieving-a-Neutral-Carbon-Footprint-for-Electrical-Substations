@@ -1,0 +1,1 @@
+This EPA SF6 alternate benefit calculator compares a GE DT1-145FK-40-F1 SF6 breaker versus a Siemens 3AV1DT-123-40-1 clean air breaker, for a 115 kV four position ring bus substation over a 40 year time horizon with a discount rate of 3%. 

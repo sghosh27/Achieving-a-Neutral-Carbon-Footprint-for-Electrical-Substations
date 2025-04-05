@@ -1,0 +1,1 @@
+The analysis uses 'orcpy' to evaluate the thermodynamic efficiency of the test bed system driven by a 235 MW transformer with 3% waste heat, with different ORC working fluids.

@@ -1,0 +1,1 @@
+The breaker pressure within the main tank of an SF6 breaker is monitored over a multi-day time horizon. Both uncompensated (raw) pressure data and temperature-compensated pressure data have been provided.

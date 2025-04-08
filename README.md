@@ -21,4 +21,6 @@ Section 3 SF6 Breaker Leakage  Data
 
 Section 4 EPA SF6 Alternative Benefit Calculator
 
-If necessary, please contact the corresponding author at sghosh27@ieee.org for further technical assistance.
+Proximal Policy Optimization (PPO) based concrete mix design is a computationally intensive process; the authors recommend using a cloud-based computation platform such Google Colab. Simulation runtimes may vary based on the selection of hardware accelerator. Estimated simulation runtime using Google Colab platform and v2-8 TPU hardware accelerator is than 45 minutes. 
+
+Please contact the corresponding author at sghosh27@ieee.org for further technical assistance.

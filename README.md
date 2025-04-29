@@ -4,8 +4,10 @@ Implementation of the paper "Achieving-a-Neutral-Carbon-Footprint-for-Electrical
 
 To use the dataset and codes, you must attribute the original work and cite the following publication:
 
-
 *Ghosh, Soham and Sullivan, Jamar, Towards Achieving a Neutral Carbon Footprint for Electrical Substations Through Multi-Pronged Approach. Available at SSRN: https://ssrn.com/abstract=5214419 or http://dx.doi.org/10.2139/ssrn.5214419*
+
+![Visual Abstract_Alternate Palette](https://github.com/user-attachments/assets/23bc4d82-8d29-4234-8241-885b66fc264b)
+
 
 Key ‘Highlights’ for the article titled ‘Towards Achieving a Neutral Carbon Footprint for Electrical Substations’ are listed below.
 1. Global focus on operational decarbonization: Government incentives in the U.S. and worldwide are driving efforts to reduce emissions in electrical utilities, particularly in the substation sector.

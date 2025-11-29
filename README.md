@@ -4,7 +4,7 @@ Implementation of the paper "Achieving-a-Neutral-Carbon-Footprint-for-Electrical
 
 To use the dataset and codes, you must attribute the original work and cite the following publication:
 
-*Ghosh, Soham and Sullivan, Jamar, Towards Achieving a Neutral Carbon Footprint for Electrical Substations Through Multi-Pronged Approach. Available at SSRN: https://ssrn.com/abstract=5214419 or http://dx.doi.org/10.2139/ssrn.5214419*
+*Ghosh, Soham, and Jamar Sullivan. "Towards achieving a neutral carbon footprint for electrical substations through Multi-Pronged approach." Energy Conversion and Management: X (2025): 101403.*
 
 ![Visual Abstract_Alternate Palette](https://github.com/user-attachments/assets/23bc4d82-8d29-4234-8241-885b66fc264b)
 

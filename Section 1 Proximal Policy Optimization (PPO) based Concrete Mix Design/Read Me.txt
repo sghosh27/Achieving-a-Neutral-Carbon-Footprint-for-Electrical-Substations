@@ -4,7 +4,7 @@ CAUTION: The authors do not guarantee the accuracy, reliability, or suitability 
 
 The user assumes full responsibility for verifying the suitability, safety, and compliance of any mix design produced by this program through extensive physical testing and validation. The authors disclaim all liability for any damages, losses, or legal consequences arising from the use of this program, including but not limited to structural failures, non-compliance with standards, or any other adverse outcomes.
 
-By using this software, the user acknowledges that concrete properties can vary due to material inconsistencies, environmental conditions, and other factors beyond the program's control. It is the user’s obligation to ensure that all mix designs meet applicable codes and project-specific requirements before implementation.
+By using these files, the user acknowledges that concrete properties can vary due to material inconsistencies, environmental conditions, and other factors beyond the program's control. It is the user’s obligation to ensure that all mix designs meet applicable codes and project-specific requirements before implementation.
 
 'Optimizing_Concrete_Mix_for_Strength_and_Sustainability.ipynb' contains the PPO code to produce optimized mix design. Use this ipynb notebook file in conjunction with the dataset 'Concrete Compressive Strength Concrete_Data Augmented with GWP Information_Published.xlsx'. 28 records out of the 1030 records from the augmented dataset were clipped; these clipped records were of the mix designs containing the highest cement component, had the highest compressive strength, but also had the highest GWP, and hence were unsuitable for substation foundation applications. 
 
@@ -20,4 +20,5 @@ Dataset columns and corresponding units are:
  Age (day)
  Concrete compressive strength(MPa, megapascals) 
  Global Warming Potential(kg CO₂ eq) 
+
 

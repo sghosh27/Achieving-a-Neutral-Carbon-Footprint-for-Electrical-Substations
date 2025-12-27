@@ -18,7 +18,7 @@ Key ‘Highlights’ for the article titled ‘Towards Achieving a Neutral Carbo
 
 4. Enhanced SF6 leak detection: Temperature-compensated pressure sensing enables faster SF6 leak detection, allowing for precise corrective measures.
 
-The codes are arranged in four sections and align with the flow of the manuscript. The sections are:
+The data/codes are arranged in four sections and align with the flow of the manuscript. The sections are:
 
 Section 1 Proximal Policy Optimization (PPO) based Concrete Mix Design
 

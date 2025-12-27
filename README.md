@@ -6,7 +6,7 @@ To use the dataset and codes, you must attribute the original work and cite the 
 
 *Ghosh, Soham, and Jamar Sullivan. "Towards achieving a neutral carbon footprint for electrical substations through Multi-Pronged approach." Energy Conversion and Management: X (2025): 101403.*
 
-![Visual Abstract_Alternate Palette](https://github.com/user-attachments/assets/23bc4d82-8d29-4234-8241-885b66fc264b)
+<img width="1320" height="920" alt="Visual Abstract_Alternate Palette" src="https://github.com/user-attachments/assets/0542ff10-6a04-418a-8541-ecd1c3a15972" />
 
 
 Key ‘Highlights’ for the article titled ‘Towards Achieving a Neutral Carbon Footprint for Electrical Substations’ are listed below.
